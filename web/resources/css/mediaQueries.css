@@ -1,0 +1,15 @@
+@media screen and (min-width: 768px){
+    #phoneDiv{
+        display: none;
+    }
+    
+    #loginFormDiv{
+       flex: 0 0 66.6666666667%;
+       max-width: 66.6666666667%;
+    }
+    
+    #facebookDiv{
+        flex: 0 0 33.3333333333%;
+        max-width: 33.3333333333%;
+    }
+}

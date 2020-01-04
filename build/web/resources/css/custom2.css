@@ -1,0 +1,21 @@
+body{
+/*    background-color: #F9F9FB !important;*/
+}
+.fa{
+    color: #ed6323 !important;
+}
+a:not(.btn) {
+	color: black !important;
+	text-decoration: none !important;
+	background-color: transparent !important;
+}
+a:hover {
+	color: #005826 !important;
+	text-decoration: none !important;
+	background-color: transparent !important;
+}
+
+.card:not(.cardIncidence), .list-group > .list-group-item{
+    background-color: #F9F9FB !important;
+
+}
